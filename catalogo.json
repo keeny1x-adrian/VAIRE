@@ -1,0 +1,1029 @@
+[
+  {
+    "id": "polera-rosa",
+    "name": "Polera Rosa",
+    "category": "Mujer",
+    "price": 185,
+    "img": "polera-rosa",
+    "color": "Rosa empolvado",
+    "detail": "Polera de algodón con capucha, bolsillo canguro y puños acanalados.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Rosa empolvado",
+        "#c38f83"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ]
+    ]
+  },
+  {
+    "id": "polera-bosque",
+    "name": "Polera Bosque",
+    "category": "Hombre",
+    "price": 185,
+    "img": "polera-bosque",
+    "color": "Verde bosque",
+    "detail": "Polera de algodón con capucha, bolsillo canguro y puños acanalados.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Verde bosque",
+        "#294539"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "ropa-1",
+    "name": "Camiseta Club Vaire",
+    "category": "Hombre",
+    "price": 145,
+    "img": "ropa-1",
+    "color": "Negro",
+    "detail": "Camiseta deportiva de malla con ribetes en contraste.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Negro",
+        "#262628"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "ropa-2",
+    "name": "Casaca Índigo",
+    "category": "Hombre",
+    "price": 155,
+    "img": "ropa-2",
+    "color": "Índigo",
+    "detail": "Casaca de denim con bolsillos frontales.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Índigo",
+        "#455f7b"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "ropa-3",
+    "name": "Sobrecamisa Arcilla",
+    "category": "Hombre",
+    "price": 165,
+    "img": "ropa-3",
+    "color": "Arcilla",
+    "detail": "Sobrecamisa de corte recto en tonos tierra.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Arcilla",
+        "#a85635"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "ropa-4",
+    "name": "Falda Oliva",
+    "category": "Mujer",
+    "price": 175,
+    "img": "ropa-4",
+    "color": "Oliva",
+    "detail": "Falda midi de pliegues amplios.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Oliva",
+        "#706d47"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "ropa-5",
+    "name": "Top Granate",
+    "category": "Mujer",
+    "price": 185,
+    "img": "ropa-5",
+    "color": "Granate",
+    "detail": "Top de punto acanalado sin mangas.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Granate",
+        "#7b2839"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ]
+    ]
+  },
+  {
+    "id": "ropa-6",
+    "name": "Cárdigan Perla",
+    "category": "Mujer",
+    "price": 195,
+    "img": "ropa-6",
+    "color": "Perla",
+    "detail": "Cárdigan corto de punto suave.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Perla",
+        "#e2dbcb"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "abrigo-gris",
+    "img": "abrigo-gris",
+    "name": "Abrigo Bruma",
+    "category": "Mujer",
+    "price": 395,
+    "color": "Gris jaspeado",
+    "detail": "Abrigo largo de solapas y silueta recta.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Gris jaspeado",
+        "#818184"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "polo-carbon",
+    "img": "polo-carbon",
+    "name": "Polo Carbón",
+    "category": "Hombre",
+    "price": 135,
+    "color": "Negro",
+    "detail": "Polo de piqué con cuello clásico y botonadura corta.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Negro",
+        "#262628"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "casaca-crema",
+    "img": "casaca-crema",
+    "name": "Casaca Alba",
+    "category": "Mujer",
+    "price": 265,
+    "color": "Marfil",
+    "detail": "Casaca bomber con cierre frontal y puños de punto.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Marfil",
+        "#e1d9c4"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "abrigo-largo",
+    "img": "abrigo-largo",
+    "name": "Abrigo Alameda",
+    "category": "Hombre",
+    "price": 420,
+    "color": "Camel",
+    "detail": "Gabardina larga con cinturón y botones al frente.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Camel",
+        "#ae8055"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ]
+    ]
+  },
+  {
+    "id": "polo-rayas",
+    "img": "polo-rayas",
+    "name": "Polo Marea",
+    "category": "Mujer",
+    "price": 105,
+    "color": "Crudo y marino",
+    "detail": "Polo de manga corta con rayas marineras.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Crudo y marino",
+        "#465267"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "polo-niebla",
+    "img": "polo-niebla",
+    "name": "Polo Niebla",
+    "category": "Hombre",
+    "price": 95,
+    "color": "Perla",
+    "detail": "Polo de algodón de cuello redondo y hombros relajados.",
+    "seccion": "Ropa",
+    "colores": [
+      [
+        "Perla",
+        "#e2dbcb"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "zapatillas-1",
+    "name": "Court Marfil",
+    "category": "Zapatillas",
+    "price": 290,
+    "img": "zapatillas-1",
+    "color": "Marfil",
+    "detail": "Perfil bajo con suela caramelo.",
+    "seccion": "Zapatillas",
+    "colores": [
+      [
+        "Marfil",
+        "#e1d9c4"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "zapatillas-2",
+    "name": "Runner Bosque",
+    "category": "Zapatillas",
+    "price": 300,
+    "img": "zapatillas-2",
+    "color": "Verde",
+    "detail": "Silueta deportiva con paneles en contraste.",
+    "seccion": "Zapatillas",
+    "colores": [
+      [
+        "Verde",
+        "#495e40"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "zapatillas-3",
+    "name": "Retro Carmín",
+    "category": "Zapatillas",
+    "price": 310,
+    "img": "zapatillas-3",
+    "color": "Carmín",
+    "detail": "Diseño retro en dos tonos.",
+    "seccion": "Zapatillas",
+    "colores": [
+      [
+        "Carmín",
+        "#a33e42"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "zapatillas-4",
+    "name": "Trail Ónix",
+    "category": "Zapatillas",
+    "price": 320,
+    "img": "zapatillas-4",
+    "color": "Negro",
+    "detail": "Suela de relieve y cordones oscuros.",
+    "seccion": "Zapatillas",
+    "colores": [
+      [
+        "Negro",
+        "#262628"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "zapatillas-5",
+    "name": "High Arena",
+    "category": "Zapatillas",
+    "price": 330,
+    "img": "zapatillas-5",
+    "color": "Arena",
+    "detail": "Caña alta y acabados en tonos arena.",
+    "seccion": "Zapatillas",
+    "colores": [
+      [
+        "Arena",
+        "#aa8969"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "zapatillas-6",
+    "name": "Sprint Cobalto",
+    "category": "Zapatillas",
+    "price": 340,
+    "img": "zapatillas-6",
+    "color": "Cobalto",
+    "detail": "Exterior de malla con paneles azules.",
+    "seccion": "Zapatillas",
+    "colores": [
+      [
+        "Cobalto",
+        "#3356a1"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "bolsos-1",
+    "name": "Clutch Pliegue",
+    "category": "Bolsos",
+    "price": 240,
+    "img": "bolsos-1",
+    "color": "Burdeos",
+    "detail": "Cuerpo plisado de mano.",
+    "seccion": "Bolsos",
+    "colores": [
+      [
+        "Burdeos",
+        "#722f42"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "bolsos-2",
+    "name": "Bolso Jardín",
+    "category": "Bolsos",
+    "price": 250,
+    "img": "bolsos-2",
+    "color": "Oliva",
+    "detail": "Bandolera acolchada de líneas suaves.",
+    "seccion": "Bolsos",
+    "colores": [
+      [
+        "Oliva",
+        "#706d47"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "bolsos-3",
+    "name": "Tote Escultura",
+    "category": "Bolsos",
+    "price": 260,
+    "img": "bolsos-3",
+    "color": "Negro",
+    "detail": "Tote de asas amplias y cuerpo estructurado.",
+    "seccion": "Bolsos",
+    "colores": [
+      [
+        "Negro",
+        "#262628"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "bolsos-4",
+    "name": "Bucket Duna",
+    "category": "Bolsos",
+    "price": 270,
+    "img": "bolsos-4",
+    "color": "Camel",
+    "detail": "Bolso de silueta cilíndrica.",
+    "seccion": "Bolsos",
+    "colores": [
+      [
+        "Camel",
+        "#ae8055"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ]
+    ]
+  },
+  {
+    "id": "bolsos-5",
+    "name": "Baguette Crema",
+    "category": "Bolsos",
+    "price": 280,
+    "img": "bolsos-5",
+    "color": "Marfil",
+    "detail": "Bolso compacto para llevar al hombro.",
+    "seccion": "Bolsos",
+    "colores": [
+      [
+        "Marfil",
+        "#e1d9c4"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ]
+    ]
+  },
+  {
+    "id": "bolsos-6",
+    "name": "Satchel Noche",
+    "category": "Bolsos",
+    "price": 290,
+    "img": "bolsos-6",
+    "color": "Azul noche",
+    "detail": "Silueta pequeña con solapa estructurada.",
+    "seccion": "Bolsos",
+    "colores": [
+      [
+        "Azul noche",
+        "#303a4c"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "mochilas-1",
+    "name": "Mochila Rolltop",
+    "category": "Mochilas",
+    "price": 260,
+    "img": "mochilas-1",
+    "color": "Negro",
+    "detail": "Cierre superior enrollable.",
+    "seccion": "Mochilas",
+    "colores": [
+      [
+        "Negro",
+        "#262628"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "mochilas-2",
+    "name": "Mochila Lona",
+    "category": "Mochilas",
+    "price": 270,
+    "img": "mochilas-2",
+    "color": "Topo",
+    "detail": "Diseño de lona con cierre fruncido.",
+    "seccion": "Mochilas",
+    "colores": [
+      [
+        "Topo",
+        "#968475"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "mochilas-3",
+    "name": "Mochila Expedición",
+    "category": "Mochilas",
+    "price": 280,
+    "img": "mochilas-3",
+    "color": "Verde",
+    "detail": "Bolsillos exteriores y correas ajustables.",
+    "seccion": "Mochilas",
+    "colores": [
+      [
+        "Verde",
+        "#495e40"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "mochilas-4",
+    "name": "Mini Burdeos",
+    "category": "Mochilas",
+    "price": 290,
+    "img": "mochilas-4",
+    "color": "Burdeos",
+    "detail": "Formato compacto de acabado liso.",
+    "seccion": "Mochilas",
+    "colores": [
+      [
+        "Burdeos",
+        "#722f42"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "mochilas-5",
+    "name": "Mochila Tránsito",
+    "category": "Mochilas",
+    "price": 300,
+    "img": "mochilas-5",
+    "color": "Azul gris",
+    "detail": "Silueta urbana de líneas suaves.",
+    "seccion": "Mochilas",
+    "colores": [
+      [
+        "Azul gris",
+        "#657682"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ]
+    ]
+  },
+  {
+    "id": "mochilas-6",
+    "name": "Mochila Cumbre",
+    "category": "Mochilas",
+    "price": 310,
+    "img": "mochilas-6",
+    "color": "Naranja",
+    "detail": "Diseño ligero con correas exteriores.",
+    "seccion": "Mochilas",
+    "colores": [
+      [
+        "Naranja",
+        "#c76c32"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "gorras-1",
+    "name": "Gorra Club",
+    "category": "Gorras",
+    "price": 110,
+    "img": "gorras-1",
+    "color": "Negro",
+    "detail": "Bordado frontal en contraste.",
+    "seccion": "Gorras",
+    "colores": [
+      [
+        "Negro",
+        "#262628"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "gorras-2",
+    "name": "Gorra Cancha",
+    "category": "Gorras",
+    "price": 120,
+    "img": "gorras-2",
+    "color": "Crema y verde",
+    "detail": "Visera verde de perfil curvo.",
+    "seccion": "Gorras",
+    "colores": [
+      [
+        "Crema y verde",
+        "#cfbf9b"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "gorras-3",
+    "name": "Gorra Pana",
+    "category": "Gorras",
+    "price": 130,
+    "img": "gorras-3",
+    "color": "Camel",
+    "detail": "Textura de pana y visera curva.",
+    "seccion": "Gorras",
+    "colores": [
+      [
+        "Camel",
+        "#ae8055"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "gorras-4",
+    "name": "Gorra Terracota",
+    "category": "Gorras",
+    "price": 140,
+    "img": "gorras-4",
+    "color": "Burdeos",
+    "detail": "Corona de seis paneles.",
+    "seccion": "Gorras",
+    "colores": [
+      [
+        "Burdeos",
+        "#722f42"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "gorras-5",
+    "name": "Gorra Atlética",
+    "category": "Gorras",
+    "price": 150,
+    "img": "gorras-5",
+    "color": "Azul marino",
+    "detail": "Paneles de malla deportiva.",
+    "seccion": "Gorras",
+    "colores": [
+      [
+        "Azul marino",
+        "#344256"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ]
+    ]
+  },
+  {
+    "id": "gorras-6",
+    "name": "Gorra Cinco Paneles",
+    "category": "Gorras",
+    "price": 160,
+    "img": "gorras-6",
+    "color": "Oliva",
+    "detail": "Construcción de cinco paneles.",
+    "seccion": "Gorras",
+    "colores": [
+      [
+        "Oliva",
+        "#706d47"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "chaqueta",
+    "name": "Chaqueta Duna",
+    "category": "Hombre",
+    "price": 490,
+    "img": "abrigo",
+    "color": "Cacao",
+    "detail": "Cuello alto, solapas amplias y una silueta envolvente en tonos tierra.",
+    "colores": [
+      [
+        "Cacao",
+        "#614639"
+      ],
+      [
+        "Verde salvia",
+        "#8e9a7e"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "vestido",
+    "name": "Vestido Pliegue",
+    "category": "Mujer",
+    "price": 380,
+    "img": "vestido",
+    "color": "Marfil",
+    "detail": "Un hombro al descubierto y un drapeado suave que acompaña el movimiento.",
+    "colores": [
+      [
+        "Marfil",
+        "#e1d9c4"
+      ],
+      [
+        "Ciruela",
+        "#764755"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ]
+    ]
+  },
+  {
+    "id": "bolso",
+    "name": "Bolso Media Luna",
+    "category": "Bolsos",
+    "price": 350,
+    "img": "bolso",
+    "color": "Coñac",
+    "detail": "Una curva continua da forma al cuerpo y al asa de esta pieza compacta.",
+    "colores": [
+      [
+        "Coñac",
+        "#974f2a"
+      ],
+      [
+        "Azul bruma",
+        "#879bac"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ]
+    ]
+  },
+  {
+    "id": "camisa",
+    "name": "Camisa Horizonte",
+    "category": "Hombre",
+    "price": 240,
+    "img": "camisa",
+    "color": "Crudo",
+    "detail": "Cuello abierto y manga corta con una caída relajada.",
+    "colores": [
+      [
+        "Crudo",
+        "#d3c3aa"
+      ],
+      [
+        "Avellana",
+        "#aa8568"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ]
+    ]
+  },
+  {
+    "id": "pantalon",
+    "name": "Pantalón Sombra",
+    "category": "Mujer",
+    "price": 290,
+    "img": "pantalon",
+    "color": "Espresso",
+    "detail": "Tiro alto y pierna amplia con pliegues que se abren al caminar.",
+    "colores": [
+      [
+        "Espresso",
+        "#533c33"
+      ],
+      [
+        "Azul petróleo",
+        "#365d68"
+      ],
+      [
+        "Rosa arcilla",
+        "#b17c6e"
+      ]
+    ]
+  }
+]

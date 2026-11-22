@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="es-PE">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101010">
+  <meta name="description" content="Explora la colección interactiva de VAIRE. Ropa, zapatillas, bolsos, mochilas y gorras con precios en soles.">
+  <title>VAIRE — Colección</title>
+  <link rel="icon" href="assets/vaire.svg" type="image/svg+xml">
+  <link rel="preload" as="font" type="font/woff" href="assets/tipos/estrecha-negrita.woff" crossorigin>
+  <link rel="preload" as="image" href="assets/polera-rosa.webp">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="datos.js"></script>
+  <script defer src="shop.js"></script>
+  <script defer src="perchero.js"></script>
+</head>
+<body>
+  <div class="entrada-blanca" aria-hidden="true"></div>
+  <svg class="defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <symbol id="i-lupa" viewBox="0 0 24 24"><circle cx="10.4" cy="10.4" r="6.4"/><path d="m15.2 15.2 5 5"/></symbol>
+    <symbol id="i-bolsa" viewBox="0 0 24 24"><path d="M4.8 8h14.4l1 12.3H3.8L4.8 8Z"/><path d="M8.5 9V6a3.5 3.5 0 0 1 7 0v3"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M3 8h18M3 15h18"/></symbol>
+    <symbol id="i-cerrar" viewBox="0 0 24 24"><path d="m5 5 14 14M19 5 5 19"/></symbol>
+    <symbol id="i-pausa" viewBox="0 0 24 24"><path d="M9 5v14M15 5v14" stroke-width="3"/></symbol>
+    <symbol id="i-reproducir" viewBox="0 0 24 24"><path d="m8 4 12 8-12 8Z" fill="currentColor" stroke="none"/></symbol>
+    <symbol id="i-anterior" viewBox="0 0 24 24"><path d="m14.8 5-7 7 7 7"/></symbol>
+    <symbol id="i-siguiente" viewBox="0 0 24 24"><path d="m9.2 5 7 7-7 7"/></symbol>
+  </svg>
+  <a class="salto" href="#contenido">Saltar al contenido</a>
+  
+<header class="cabecera">
+  <nav class="nav-tienda" aria-label="Principal"><a href="#coleccion">Colección</a><a href="#tienda">Catálogo</a></nav>
+  <a class="marca" href="#coleccion" aria-label="VAIRE, inicio">VAIRE</a>
+  <div class="acciones"><button id="searchBtn" class="icono" aria-label="Buscar"><svg><use href="#i-lupa"/></svg></button>
+    <button id="bagBtn" class="accion-bolsa" aria-label="Abrir bolsa"><svg><use href="#i-bolsa"/></svg><span>Bolsa</span><b id="bagCount">0</b></button></div>
+</header>
+<main id="contenido" tabindex="-1">
+<section class="atelier" id="coleccion" aria-labelledby="tituloRack">
+  <div class="cab-perchero"><div><p class="etiqueta">Colección de temporada</p><h1 id="tituloRack">Ropa</h1></div>
+    <nav class="pestanas" id="secciones" aria-label="Secciones de la colección"></nav></div>
+  <div class="escena" id="escena" data-grupo="Ropa">
+    <div id="mostrador" class="mostrador" aria-label="Exhibición de ropa">
+      <div class="barra" aria-hidden="true"></div>
+      <div id="fila" class="fila"></div>
+      <div id="puertas" class="puertas" hidden aria-hidden="true"><span></span><span></span></div>
+    </div>
+    <button id="accionVitrina" class="accion-vitrina" hidden type="button" aria-controls="fila" aria-expanded="false">Abrir vitrina</button>
+  </div>
+  <div class="ficha"><div class="indice-pieza"><span id="numeracion"></span><small id="indicacion">Mueve el cursor sobre una pieza</small></div>
+    <div class="elegida"><p id="nombrePieza"></p><span id="colorPrecio"></span><button id="verPieza" class="pastilla negra">Ver pieza</button></div>
+    <div class="navegar"><button id="anterior" class="icono" aria-label="Pieza anterior"><svg><use href="#i-anterior"/></svg></button><button id="siguiente" class="icono" aria-label="Pieza siguiente"><svg><use href="#i-siguiente"/></svg></button></div></div>
+</section>
+<section id="pagina-tienda" class="interior">
+      <div class="encabezado-pagina"><h2 class="titulo-pagina" id="tituloTienda" tabindex="-1">Catálogo</h2></div>
+      <div class="herramientas"><nav id="filtros" class="filtros" aria-label="Categorías de tienda"></nav>
+        <label class="orden">Ordenar <select id="orden"><option value="seleccion">Selección VAIRE</option><option value="asc">Menor precio</option><option value="desc">Mayor precio</option><option value="az">Nombre, A–Z</option></select></label>
+      </div>
+      <div class="resultados-tienda"><h2 id="categoriaActiva">Todas las piezas</h2><span id="cantidadTienda" class="meta" role="status"></span></div>
+      <div id="productos" class="productos"></div>
+    </section>
+  </main><footer><a class="marca" href="#coleccion">VAIRE</a><span>Perú · Precios en soles</span><a href="#coleccion">Volver a la colección</a></footer>
+<dialog id="panel" aria-labelledby="tituloPanel"><div class="panelhead"><span class="marca">VAIRE</span><button id="dismiss" class="icono" aria-label="Cerrar"><svg><use href="#i-cerrar"/></svg></button></div><div id="panelBody"></div></dialog>
+  <noscript>Activa JavaScript para recorrer la colección y usar la bolsa.</noscript>
+</body>
+</html>
